@@ -1,5 +1,5 @@
-# Frontend
-## React architecture
+### Frontend
+#### React architecture
 
 src/
 |-- index.css
