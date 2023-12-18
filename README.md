@@ -25,7 +25,6 @@ src/
 
 
 #### Django architecture
-
 ```
 project/
 |-- manage.py
