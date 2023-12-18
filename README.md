@@ -3,10 +3,6 @@
 
 ```
 src/
-|-- index.css
-|-- index.tsx
-|-- App.scss
-|-- App.tsx
 |-- api/
 |   |-- apiRequest1.tsx
 |   |-- apiRequest2.tsx
@@ -21,4 +17,8 @@ src/
 |   |-- ...
 |-- constants/
 |   |-- profile.ts
+|-- index.tsx
+|-- App.tsx
+|-- index.css
+|-- App.scss
 ```
