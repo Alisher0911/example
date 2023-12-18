@@ -1,6 +1,7 @@
 ### Frontend
 #### React architecture
 
+```
 src/
 |-- index.css
 |-- index.tsx
@@ -20,3 +21,4 @@ src/
 |   |-- ...
 |-- constants/
 |   |-- profile.ts
+```
